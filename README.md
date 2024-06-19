@@ -72,7 +72,6 @@ This repository contains the backend server implemented using Express and TypeSc
   - `name`: String (optional)
 - **Response**: JSON array of matching submissions
 
-## Setting Up the Project
 
 ### Backend Server Setup
 
@@ -100,9 +99,6 @@ This repository contains the backend server implemented using Express and TypeSc
 2. Restore NuGet packages and build the solution.
 3. Configure the application to communicate with the local backend server.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository, make your changes, and submit a pull request. For significant changes, please open an issue first to discuss what you would like to change.
 
 ## Contact
 
