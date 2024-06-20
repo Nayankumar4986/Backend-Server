@@ -204,8 +204,13 @@ dist
 ## Note
 Make sure your `db.json` file is present in the root directory of the project. If the file does not exist, create an empty `db.json` file or modify the path in the code accordingly.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-```
+## DeskTop App Images 
+
+![Screenshot of the app interface](https://github.com/Nayankumar4986/Backend-Server/blob/main/img/1.png)
+![Screenshot of the app interface](https://github.com/Nayankumar4986/Backend-Server/blob/main/img/2.png)
+![Screenshot of the app interface](https://github.com/Nayankumar4986/Backend-Server/blob/main/img/3.png)
+![Screenshot of the app interface](https://github.com/Nayankumar4986/Backend-Server/blob/main/img/4.png)
+![Screenshot of the app interface](https://github.com/Nayankumar4986/Backend-Server/blob/main/img/5.png)
+
 
 This updated README provides a step-by-step guide for setting up, building, and running your TypeScript and Express server, including all necessary commands and configurations.
