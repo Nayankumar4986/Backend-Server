@@ -115,7 +115,8 @@ This endpoint allows you to submit new data.
 
 **Request:**
 ```terminal
-curl -X POST http://localhost:3000/submit -H "Content-Type: application/json" -d '{
+curl -X POST http://localhost:3000/submit
+{
     "name": "John Doe",
     "email": "john@example.com",
     "phone": "1234567890",
