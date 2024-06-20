@@ -205,7 +205,7 @@ dist
 ## Note
 Make sure your `db.json` file is present in the root directory of the project. If the file does not exist, create an empty `db.json` file or modify the path in the code accordingly.
 
-## DeskTop App Images 
+## Backend Server Images 
 
 ![Screenshot of the app interface](https://github.com/Nayankumar4986/Backend-Server/blob/main/img/1.png)
 ![Screenshot of the app interface](https://github.com/Nayankumar4986/Backend-Server/blob/main/img/2.png)
