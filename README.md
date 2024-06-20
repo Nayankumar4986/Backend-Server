@@ -14,6 +14,8 @@ This is a simple backend server built with Express and TypeScript. It supports t
 
 ## Project Structure
 ```
+## Project Structure
+```plaintext
 my-backend-server/
 ├── src/
 │   ├── index.ts
@@ -34,7 +36,6 @@ my-backend-server/
 ├── tsconfig.json
 ├── .gitignore
 └── README.md
-```
 
 ## Requirements
 - Node.js
