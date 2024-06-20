@@ -100,7 +100,7 @@ This endpoint checks if the server is running.
 
 **Request:**
 ```terminal
-curl http://localhost:3000/ping
+ http://localhost:3000/ping
 ```
 
 **Response:**
@@ -143,7 +143,7 @@ This endpoint retrieves a specific submission by its index.
 
 **Request:**
 ```terminal
-curl http://localhost:3000/read?index=0
+http://localhost:3000/read?index=0
 ```
 
 **Response:**
@@ -164,7 +164,7 @@ This endpoint retrieves all submissions stored in `db.json`.
 
 **Request:**
 ```terminal
-curl http://localhost:3000/submissions
+http://localhost:3000/submissions
 ```
 
 **Response:**
